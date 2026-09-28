@@ -97,8 +97,9 @@ me.say_hi()
 ### 🖼️ Dashboard Preview
 
 <div align="center">
-  <img src="images/dashboard1.png" width="48%" />
-  <img src="images/dashboard2.png" width="48%" />
+  <img src="images/ford 1.png" width="48%" />
+  <img src="images/ford 2.png" width="48%" />
+  <img src="images/ford 3.png" width="48%" />
 </div>
 
 <!-- Tip: put a GIF of your dashboard in /images and use: <img src="images/demo.gif" width="80%"/> -->
