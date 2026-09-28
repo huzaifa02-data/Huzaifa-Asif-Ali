@@ -109,7 +109,7 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+ <img src="https://github-profile-trophy.vercel.app/?username=huzaifa02-data&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---
