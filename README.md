@@ -17,7 +17,6 @@
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://public.tableau.com/app/profile/YOUR_NAME"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/></a>
 </p>
 
 </div>
@@ -26,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-```python
+python
 class DataAnalyst:
     def __init__(self):
         self.name = "Huzaifa Asif ALi"
@@ -40,7 +39,7 @@ class DataAnalyst:
 
 me = DataAnalyst()
 me.say_hi()
-```
+
 
 - 🔭 Working on: **Customer Sales Analysis**
 - 🌱 Learning: **Story Tellling & Advanced SQL**
