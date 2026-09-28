@@ -1,7 +1,7 @@
 <!-- ============ 1. ANIMATED BANNER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Huzaifa%20Asif%20Ali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Turning%20Data%20into%20Decisions&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Huzaifa%20Asif%20Ali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%Data%20Analyst%20%7C%20Turning%20Data%20into%20Decisions&descAlignY=58&descSize=20" width="100%"/>
 
 <!-- ============ 2. TYPING ANIMATION ============ -->
 <a href="https://git.io/typing-svg">
@@ -9,10 +9,6 @@
 </a>
 
 <!-- ============ 3. PROFILE VIEWS + SOCIAL BADGES ============ -->
-<p>
- <img src="https://komarev.com/ghpvc/?username=alikhan&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
 <p>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
