@@ -42,10 +42,10 @@ me = DataAnalyst()
 me.say_hi()
 ```
 
-- 🔭 Working on: **[your current project]**
-- 🌱 Learning: **Machine Learning & Advanced SQL**
+- 🔭 Working on: **Customer Sales Analysis**
+- 🌱 Learning: **Story Tellling & Advanced SQL**
 - 💬 Ask me about: **Dashboards, EDA, KPI reporting, storytelling with data**
-- 📫 Reach me: **you@email.com**
+- 📫 Reach me: **alihuzaifaasif9@gmail.com**
 
 ---
 
