@@ -5,7 +5,7 @@
 
 <!-- ============ 2. TYPING ANIMATION ============ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+YOUR+NAME;Data+Analyst+%F0%9F%93%8A;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;I+turn+messy+data+into+clear+stories" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Huzaifa Asif +Ali;Data+Analyst+%F0%9F%93%8A;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;I+turn+messy+data+into+clear+stories" alt="Typing SVG" />
 </a>
 
 <!-- ============ 3. PROFILE VIEWS + SOCIAL BADGES ============ -->
@@ -25,13 +25,13 @@
 
 ## 👨‍💻 About Me
 
-python
+```python
 class DataAnalyst:
     def __init__(self):
-        self.name = "Huzaifa Asif ALi"
+        self.name = "YOUR NAME"
         self.location = "Karachi, Pakistan"
-        self.skills = ["SQL", "Python", "Power BI", "Excel", "Statistics"]
-        self.currently_learning = ["Data Anlytics Techniques", "Story Telling"]
+        self.skills = ["SQL", "Python", "Power BI", "Tableau", "Excel", "Statistics"]
+        self.currently_learning = ["Machine Learning", "dbt", "Cloud (AWS/GCP)"]
         self.fun_fact = "I believe every dataset has a story waiting to be told"
 
     def say_hi(self):
@@ -39,6 +39,7 @@ class DataAnalyst:
 
 me = DataAnalyst()
 me.say_hi()
+```
 
 
 - 🔭 Working on: **Customer Sales Analysis**
