@@ -10,8 +10,8 @@
 
 <!-- ============ 3. PROFILE VIEWS + SOCIAL BADGES ============ -->
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/huzaifa-asif-ali-5078aa24b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:alihuzaifaasif9@gmail.com.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
@@ -24,7 +24,7 @@
 ```python
 class DataAnalyst:
     def __init__(self):
-        self.name = "YOUR NAME"
+        self.name = "Huzaifa Asif Ali"
         self.location = "Karachi, Pakistan"
         self.skills = ["SQL", "Python", "Power BI", "Tableau", "Excel", "Statistics"]
         self.currently_learning = ["Machine Learning", "dbt", "Cloud (AWS/GCP)"]
