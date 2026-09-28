@@ -10,7 +10,7 @@
 
 <!-- ============ 3. PROFILE VIEWS + SOCIAL BADGES ============ -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+ <img src="https://komarev.com/ghpvc/?username=alikhan&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 <p>
